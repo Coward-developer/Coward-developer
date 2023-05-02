@@ -16,7 +16,7 @@
  - Programming Languages, Algorithm, Data Structure,
  - Discrete Math, Probability Statistics, Linear Algebra and so on. ...
 
-📫 The main programming language is java, VueJS
+📫 The main programming language is java, vuejs
 
 👯 Activity
  1. SpringGroupStudy

@@ -8,8 +8,8 @@
  - Apache & Apache Tomcat
  - Docker & AWS
  - Linux & Ubuntu
- - VueJS & NodeModule..
- - Spring Security
+ - VueJS & Node.js
+ - Spring Security .. 
 
 🎓 I Learned
  - OS, Network, Database, Computer Architecture,
